@@ -1,4 +1,4 @@
-baseURL = 'https://praveenjana.github.io/sampleblog/'
+baseURL = 'https://praveenjana.github.io/'
 #baseURL = "/"
 languageCode = 'en-us'
 title = 'Praveen Musings'

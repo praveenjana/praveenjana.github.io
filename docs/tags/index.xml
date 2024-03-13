@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on Praveen Musings</title>
-        <link>https://praveenjana.github.io/sampleblog/tags/</link>
+        <link>https://praveenjana.github.io/tags/</link>
         <description>Recent content in Tags on Praveen Musings</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 13 Mar 2024 12:52:32 +0530</lastBuildDate><atom:link href="https://praveenjana.github.io/sampleblog/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 13 Mar 2024 12:52:32 +0530</lastBuildDate><atom:link href="https://praveenjana.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Classification</title>
-        <link>https://praveenjana.github.io/sampleblog/tags/classification/</link>
+        <link>https://praveenjana.github.io/tags/classification/</link>
         <pubDate>Wed, 13 Mar 2024 12:52:32 +0530</pubDate>
         
-        <guid>https://praveenjana.github.io/sampleblog/tags/classification/</guid>
+        <guid>https://praveenjana.github.io/tags/classification/</guid>
         <description></description>
         </item>
         <item>
         <title>GENAI</title>
-        <link>https://praveenjana.github.io/sampleblog/tags/genai/</link>
+        <link>https://praveenjana.github.io/tags/genai/</link>
         <pubDate>Wed, 13 Mar 2024 12:52:32 +0530</pubDate>
         
-        <guid>https://praveenjana.github.io/sampleblog/tags/genai/</guid>
+        <guid>https://praveenjana.github.io/tags/genai/</guid>
         <description></description>
         </item>
         <item>
         <title>Hardware</title>
-        <link>https://praveenjana.github.io/sampleblog/tags/hardware/</link>
+        <link>https://praveenjana.github.io/tags/hardware/</link>
         <pubDate>Wed, 13 Mar 2024 12:52:32 +0530</pubDate>
         
-        <guid>https://praveenjana.github.io/sampleblog/tags/hardware/</guid>
+        <guid>https://praveenjana.github.io/tags/hardware/</guid>
         <description></description>
         </item>
         <item>
         <title>Inference</title>
-        <link>https://praveenjana.github.io/sampleblog/tags/inference/</link>
+        <link>https://praveenjana.github.io/tags/inference/</link>
         <pubDate>Wed, 13 Mar 2024 12:52:32 +0530</pubDate>
         
-        <guid>https://praveenjana.github.io/sampleblog/tags/inference/</guid>
+        <guid>https://praveenjana.github.io/tags/inference/</guid>
         <description></description>
         </item>
         <item>
         <title>Stats</title>
-        <link>https://praveenjana.github.io/sampleblog/tags/stats/</link>
+        <link>https://praveenjana.github.io/tags/stats/</link>
         <pubDate>Wed, 13 Mar 2024 12:52:32 +0530</pubDate>
         
-        <guid>https://praveenjana.github.io/sampleblog/tags/stats/</guid>
+        <guid>https://praveenjana.github.io/tags/stats/</guid>
         <description></description>
         </item>
         

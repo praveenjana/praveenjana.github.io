@@ -73,11 +73,7 @@ enabled = true
 [imageProcessing.content]
 enabled = true
 
-## Comments
-[comments]
-enabled = true
-provider = "disqus"
-disqusShortname = "https-praveenjana-github-io-sampleblog"
+
 
 
 [comments.disqusjs]
