@@ -1,5 +1,5 @@
 #baseURL = 'https://praveenjana.github.io/sampleblog/git'
-baseURL = 'https://65f19535c0f66e0008d55721--praveenjana.netlify.app/'
+baseURL = 'https://praveenjana.netlify.app/sampleblog/'
 languageCode = 'en-us'
 title = 'Praveen Musings'
 # config.toml
