@@ -2,50 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://praveenjana.github.io/sampleblog/</loc>
+    <loc>/</loc>
     <lastmod>2024-03-13T12:52:32+05:30</lastmod>
   </url><url>
-    <loc>https://praveenjana.github.io/sampleblog/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2024-03-13T12:52:32+05:30</lastmod>
   </url><url>
-    <loc>https://praveenjana.github.io/sampleblog/tags/classification/</loc>
+    <loc>/tags/classification/</loc>
     <lastmod>2024-03-13T12:52:32+05:30</lastmod>
   </url><url>
-    <loc>https://praveenjana.github.io/sampleblog/post/groq/</loc>
+    <loc>/post/groq/</loc>
     <lastmod>2024-03-13T12:52:32+05:30</lastmod>
   </url><url>
-    <loc>https://praveenjana.github.io/sampleblog/categories/genai/</loc>
+    <loc>/categories/genai/</loc>
     <lastmod>2024-03-13T12:52:32+05:30</lastmod>
   </url><url>
-    <loc>https://praveenjana.github.io/sampleblog/tags/genai/</loc>
+    <loc>/tags/genai/</loc>
     <lastmod>2024-03-13T12:52:32+05:30</lastmod>
   </url><url>
-    <loc>https://praveenjana.github.io/sampleblog/tags/hardware/</loc>
+    <loc>/tags/hardware/</loc>
     <lastmod>2024-03-13T12:52:32+05:30</lastmod>
   </url><url>
-    <loc>https://praveenjana.github.io/sampleblog/tags/inference/</loc>
+    <loc>/tags/inference/</loc>
     <lastmod>2024-03-13T12:52:32+05:30</lastmod>
   </url><url>
-    <loc>https://praveenjana.github.io/sampleblog/post/logistic/</loc>
+    <loc>/post/logistic/</loc>
     <lastmod>2024-03-13T12:52:32+05:30</lastmod>
   </url><url>
-    <loc>https://praveenjana.github.io/sampleblog/categories/machine-learning/</loc>
+    <loc>/categories/machine-learning/</loc>
     <lastmod>2024-03-13T12:52:32+05:30</lastmod>
   </url><url>
-    <loc>https://praveenjana.github.io/sampleblog/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2024-03-13T12:52:32+05:30</lastmod>
   </url><url>
-    <loc>https://praveenjana.github.io/sampleblog/tags/stats/</loc>
+    <loc>/tags/stats/</loc>
     <lastmod>2024-03-13T12:52:32+05:30</lastmod>
   </url><url>
-    <loc>https://praveenjana.github.io/sampleblog/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2024-03-13T12:52:32+05:30</lastmod>
   </url><url>
-    <loc>https://praveenjana.github.io/sampleblog/archives/</loc>
+    <loc>/archives/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://praveenjana.github.io/sampleblog/links/</loc>
+    <loc>/links/</loc>
   </url><url>
-    <loc>https://praveenjana.github.io/sampleblog/search/</loc>
+    <loc>/search/</loc>
   </url>
 </urlset>

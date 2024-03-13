@@ -2,50 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/sampleblog/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2024-03-13T12:52:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sampleblog/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
     <lastmod>2024-03-13T12:52:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sampleblog/tags/classification/</loc>
+    <loc>//localhost:1313/tags/classification/</loc>
     <lastmod>2024-03-13T12:52:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sampleblog/post/groq/</loc>
+    <loc>//localhost:1313/post/groq/</loc>
     <lastmod>2024-03-13T12:52:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sampleblog/categories/genai/</loc>
+    <loc>//localhost:1313/categories/genai/</loc>
     <lastmod>2024-03-13T12:52:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sampleblog/tags/genai/</loc>
+    <loc>//localhost:1313/tags/genai/</loc>
     <lastmod>2024-03-13T12:52:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sampleblog/tags/hardware/</loc>
+    <loc>//localhost:1313/tags/hardware/</loc>
     <lastmod>2024-03-13T12:52:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sampleblog/tags/inference/</loc>
+    <loc>//localhost:1313/tags/inference/</loc>
     <lastmod>2024-03-13T12:52:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sampleblog/post/logistic/</loc>
+    <loc>//localhost:1313/post/logistic/</loc>
     <lastmod>2024-03-13T12:52:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sampleblog/categories/machine-learning/</loc>
+    <loc>//localhost:1313/categories/machine-learning/</loc>
     <lastmod>2024-03-13T12:52:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sampleblog/post/</loc>
+    <loc>//localhost:1313/post/</loc>
     <lastmod>2024-03-13T12:52:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sampleblog/tags/stats/</loc>
+    <loc>//localhost:1313/tags/stats/</loc>
     <lastmod>2024-03-13T12:52:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sampleblog/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
     <lastmod>2024-03-13T12:52:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sampleblog/archives/</loc>
+    <loc>//localhost:1313/archives/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sampleblog/links/</loc>
+    <loc>//localhost:1313/links/</loc>
   </url><url>
-    <loc>http://localhost:1313/sampleblog/search/</loc>
+    <loc>//localhost:1313/search/</loc>
   </url>
 </urlset>
