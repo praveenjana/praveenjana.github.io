@@ -5,6 +5,7 @@ description =  "Explains how Logistic regression is related to GLM"
 tags = ["Stats", "Classification"]
 categories = ["Machine Learning"]
 ShowToc =  false
+image = 'cover.jpg'
 +++
 
 
