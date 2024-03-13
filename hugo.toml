@@ -6,7 +6,7 @@ title = 'Praveen Musings'
 theme = 'hugo-theme-stack'
 
 [services.disqus]
-shortname = "https-praveenjana-github-io-sampleblog"
+shortname = "https-praveenjana-github-io"
 ## Comments
 [comments]
     enabled = true
