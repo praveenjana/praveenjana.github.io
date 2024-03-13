@@ -5,3 +5,8 @@ title = 'Praveen Musings'
 # config.toml
 theme = 'hugo-theme-stack'
 
+## Comments
+[comments]
+enabled = true
+provider = "disqus"
+disqusShortname = "https-praveenjana-github-io-sampleblog"
