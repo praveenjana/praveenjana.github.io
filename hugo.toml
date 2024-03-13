@@ -1,5 +1,5 @@
-#baseURL = 'https://praveenjana.github.io/sampleblog/git'
-baseURL = "/"
+baseURL = 'https://praveenjana.github.io/sampleblog/'
+#baseURL = "/"
 languageCode = 'en-us'
 title = 'Praveen Musings'
 # config.toml
