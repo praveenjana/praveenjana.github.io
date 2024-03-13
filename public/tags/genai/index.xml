@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>GENAI on Praveen Musings</title>
-        <link>https://praveenjana.github.io/sampleblog/tags/genai/</link>
+        <link>http://localhost:1313/tags/genai/</link>
         <description>Recent content in GENAI on Praveen Musings</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 13 Mar 2024 12:52:32 +0530</lastBuildDate><atom:link href="https://praveenjana.github.io/sampleblog/tags/genai/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 13 Mar 2024 12:52:32 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/genai/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Does Groq stops dream run of Nvidia?</title>
-        <link>https://praveenjana.github.io/sampleblog/post/groq/</link>
+        <link>http://localhost:1313/post/groq/</link>
         <pubDate>Wed, 13 Mar 2024 12:52:32 +0530</pubDate>
         
-        <guid>https://praveenjana.github.io/sampleblog/post/groq/</guid>
+        <guid>http://localhost:1313/post/groq/</guid>
         <description>&lt;p&gt;Nvidia is performing very well for the past 4 years with this AI boom and their GPUs are used every where. Recently, Groq, LA based startup came with their own AI chips which can be used during the inference time and their response time quite remarkable.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;Hello&amp;#39;&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 </description>
