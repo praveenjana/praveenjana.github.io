@@ -1,7 +1,6 @@
 +++
 title = 'Does Groq stops dream run of Nvidia?'
 date = 2024-03-13T12:52:32+05:30
-draft = true
 description =  "Groq is an lightnening fast AI inference platform"
 tags = ["GENAI", "Inference", "Hardware"]
 categories = ["GenAI"]

@@ -1,7 +1,6 @@
 +++
 title = 'Logistic Regression special case of GLM'
 date = 2024-03-13T12:52:32+05:30
-draft = true
 description =  "Explains how Logistic regression is related to GLM"
 tags = ["Stats", "Classification"]
 categories = ["Machine Learning"]
